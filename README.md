@@ -13,5 +13,6 @@ The data collection is based on scraped data from flickr, google images, and yan
 
 # Inspiration
 What kind of flower is that?
+# cnn
 covolution neural network are powerfull class neural network commonly used for image recognition task.
 they are designed to automatically and adaptively learn spatial hierarchies of features from input images .
